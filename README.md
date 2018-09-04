@@ -10,5 +10,5 @@
 [Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第三讲
 - 2018/9/4 18:00-20:00
 - 三层1号会议室
-- 主持人：辛国茂
+- 主持人：刘菲
 - 内容简介：机器学习数学基础-向量及矩阵运算
