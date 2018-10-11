@@ -5,14 +5,11 @@
 - 培训预告
 - 相关代码
 # 活动
-每周二18:00-20:00，AI技术学习和研讨，三层一号会议室
+每周二18:15-20:00，AI技术学习和研讨，三层一号会议室
 # 预告
-[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第七讲
-- 2018/10/10 18:00-20:00
+[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第八讲
+- 2018/10/16 18:15-20:00
 - 三层1号会议室
-- 主持人：李鹏
+- 主持人：待定
 - 内容简介：
-  - 逻辑回归cost function梯度推导
-  - 高级优化方法
-  - 多分类
-  - 过拟合
+  - 使用sklearn包解决机器学习问题案例与代码分享

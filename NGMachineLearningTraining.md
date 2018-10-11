@@ -1,14 +1,21 @@
 # 简介
 本系列培训源自andrew ng在[coursera的机器学习课程](https://www.coursera.org/learn/machine-learning)  
 培训视频下载链接：https://pan.baidu.com/s/1u9nzy1XqWDP5hSMaXST1XQ 密码：6k02  
-代码地址：本仓库NGMachineLearningStuffs目录，相应的子目录(比如Lecture4表示第四讲)
+代码和材料地址：本仓库NGMachineLearningStuffs目录，相应的子目录(比如Lecture4表示第四讲)
 # Notes
 - 视频都会编号，每次讲的内容会包含视频文件的范围（以编号表示）
+- 视频编号不一定是连续的，按指定的范围查看即可
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第七讲(Oncoming)
-- 2018/10/9 18:00-20:00
+## 第八讲(Oncoming)
+- 2018/10/16 18:15-20:00
+- 三层1号会议室
+- 主持人：待定
+- 内容简介：
+  - 使用sklearn包解决机器学习问题案例与代码分享
+## 第七讲(Finished)
+- 2018/10/10 18:00-20:00
 - 三层1号会议室
 - 主持人：李鹏
 - 内容简介：
@@ -16,7 +23,7 @@
   - 高级优化方法
   - 多分类
   - 过拟合
-- week3/51.mp4 - 54.mp4
+- week3/51.mp4 - 55.mp4
 ## 第六讲(Finished)
 - 2018/9/25 18:00-20:00
 - 三层1号会议室
