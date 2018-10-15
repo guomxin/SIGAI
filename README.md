@@ -10,6 +10,11 @@
 [Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第八讲
 - 2018/10/16 18:15-20:00
 - 三层1号会议室
-- 主持人：待定
+- 主持人：辛国茂
 - 内容简介：
-  - 使用sklearn包解决机器学习问题案例与代码分享
+  - 使用pandas,sklearn解决机器学习问题案例与代码分享
+    - 探索数据
+    - 准备数据
+    - 数据预处理
+    - 模型训练
+    - 模型评价
