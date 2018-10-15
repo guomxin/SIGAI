@@ -19,6 +19,7 @@
     - 数据预处理
     - 模型训练
     - 模型评价
+- 代码NGMachineLearningStuffs/Lecture8
 ## 第七讲(Finished)
 - 2018/10/10 18:00-20:00
 - 三层1号会议室
