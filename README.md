@@ -7,14 +7,13 @@
 # 活动
 每周二18:15-20:00，AI技术学习和研讨，三层一号会议室
 # 预告
-[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第八讲
-- 2018/10/16 18:15-20:00
-- 三层1号会议室
+[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第九讲
+- 2018/10/23 18:15-20:00
+- 三层4号会议室
 - 主持人：辛国茂
 - 内容简介：
-  - 使用pandas,sklearn解决机器学习问题案例与代码分享
-    - 探索数据
-    - 准备数据
-    - 数据预处理
-    - 模型训练
-    - 模型评价
+  - 过拟合
+  - 线性回归正则化
+  - 逻辑回归正则化
+  - 回顾
+- week3/56.mp4 - 61.mp4
