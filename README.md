@@ -8,7 +8,7 @@
 每周二18:15-20:00，AI技术学习和研讨，三层一号会议室
 # 预告
 [Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第九讲
-- 2018/10/23 18:15-20:00
+- 2018/10/24 18:15-20:00
 - 三层4号会议室
 - 主持人：辛国茂
 - 内容简介：
