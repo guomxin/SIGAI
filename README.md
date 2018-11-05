@@ -7,10 +7,9 @@
 # 活动
 每周二18:15-20:00，AI技术学习和研讨，三层一号会议室
 # 预告
-[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十讲
-- 2018/10/30 18:15-20:00
+[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十一讲
+- 2018/11/6 18:15-20:00
 - 三层4号会议室
 - 主持人：李鹏
 - 内容简介：
-  - Anaconda介绍和环境安装
-  - 多Python环境切换和科学计算库示例
+  - Python科学计算库示例
