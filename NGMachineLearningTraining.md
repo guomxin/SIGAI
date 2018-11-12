@@ -8,12 +8,20 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第十一讲(Oncoming)
+## 第十二讲(Oncoming)
+- 2018/11/13 17:45-19:30
+- 三层1号会议室
+- 主持人：辛国茂
+- 内容简介：
+  - NumPy基础知识
+  - NumPy创建和操作数组
+## 第十一讲(Finished)
 - 2018/11/6 18:15-20:00
 - 三层4号会议室
 - 主持人：李鹏
 - 内容简介：
-  - Python科学计算库示例
+  - Numpy使用
+- 代码NGMachineLearningStuffs/Lecture11/ScienceCalculate
 ## 第十讲(Finished)
 - 2018/10/30 18:15-20:00
 - 三层4号会议室

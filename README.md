@@ -7,9 +7,10 @@
 # 活动
 每周二18:15-20:00，AI技术学习和研讨，三层一号会议室
 # 预告
-[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十一讲
-- 2018/11/6 18:15-20:00
-- 三层4号会议室
-- 主持人：李鹏
+[Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十二讲
+- 2018/11/13 17:45-19:30
+- 三层1号会议室
+- 主持人：辛国茂
 - 内容简介：
-  - Python科学计算库示例
+  - NumPy基础知识
+  - NumPy创建和操作数组
