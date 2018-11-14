@@ -8,13 +8,26 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第十二讲(Oncoming)
+## 第十三讲(Oncoming)
+- 2018/11/20 17:45-19:30
+- 三层1号会议室
+- 主持人：辛国茂
+- 内容简介：
+  - 如何导入 Pandas
+  - 如何使用各种方法创建 Pandas Series 和 DataFrame
+  - 如何访问及更改 Series 和 DataFrame 中的元素
+  - 如何对 Series 执行算术运算
+  - 如何向 DataFrame 中加载数据
+  - 如何处理非数 (NaN) 值
+## 第十二讲(Finished)
 - 2018/11/13 17:45-19:30
 - 三层1号会议室
 - 主持人：辛国茂
 - 内容简介：
   - NumPy基础知识
   - NumPy创建和操作数组
+- 讲义NGMachineLearningStuffs/Lecture12/numpy
+  - 参照优达学城数据分析入门纳米学位->Python入门->NumPy
 ## 第十一讲(Finished)
 - 2018/11/6 18:15-20:00
 - 三层4号会议室
