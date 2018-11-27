@@ -1,0 +1,14 @@
+BIT-Vehicle Dataset所在机器：10.10.50.210
+
+图片目录：/root/data/BITVehicle_Dataset/images/  vehicle_0000001 ~ vehicle_0009850共9850张
+
+图片说明文件和图片标注文件：/root/data/BITVehicle_Dataset/  目录下README.txt，VehicleInfo.mat
+
+
+渣土车数据所在机器：10.10.50.210
+	
+图片目录：/root/data/zhatuche/JPEGImages/  000000-0002499 共2500张
+
+图片标注目录：/root/data/zhatuche/labels/  000000-0002499 
+
+训练集，测试集，验证集描述文件：/root/data/zhatuche/  目录下，test.txt, train.txt,val.txt
