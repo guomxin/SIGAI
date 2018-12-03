@@ -8,7 +8,16 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第十四讲(Oncoming)
+## 第十五讲(Oncoming)
+- 2018/12/11 18:00-19:30
+- 三层1号会议室
+- 主持人：辛国茂
+- 内容简介：
+  - NeuralNet Cost Function
+  - Back propagation
+  - Gradient checking
+- week5/72-76.mp4
+## 第十四讲(Finished)
 - 2018/11/27 18:00-19:30
 - 三层1号会议室
 - 主持人：辛国茂
@@ -19,7 +28,7 @@
   - Model Representation II
   - Examples and Intuitions I
   - Examples and Intuitions II
-- week4/62-70.mp4
+- week4/62-71.mp4
 ## 第十三讲(Finished)
 - 2018/11/20 17:45-19:30
 - 三层1号会议室
