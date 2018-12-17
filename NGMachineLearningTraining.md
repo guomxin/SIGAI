@@ -8,10 +8,19 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第十五讲(Oncoming)
-- 2018/12/11 18:00-19:30
+## 第十六讲(Oncoming)
+- 2018/12/18 18:00-19:30
 - 三层1号会议室
 - 主持人：辛国茂
+- 内容简介：
+  - Random Initialization
+  - Neural Nets Summary
+  - Model Selection
+- week5/77-80.mp4, week6/83-85.mp4
+## 第十五讲(Finished)
+- 2018/12/11 18:00-19:30
+- 三层1号会议室
+- 主持人：李鹏
 - 内容简介：
   - NeuralNet Cost Function
   - Back propagation
