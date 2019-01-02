@@ -7,6 +7,15 @@
 # 活动
 每周二，AI技术学习和研讨，济南市高新区新泺大街2008号银荷大厦D座，具体看每次通知
 # 预告
+- [Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十七讲
+  - 2019/1/2 18:00-19:30
+  - 三层1号会议室
+  - 主持人：李鹏
+  - 内容简介：
+    - Diagnosing Bias vs Variance
+    - Regularization and Bias Variance
+    - Learning Curves
+    
 - [Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十六讲
   - 2018/12/18 18:00-19:30
   - 三层1号会议室
