@@ -15,7 +15,7 @@
     - Diagnosing Bias vs Variance
     - Regularization and Bias Variance
     - Learning Curves
-    
+    - Deciding what to do next
 - [Andrew NG机器学习系列课程](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)第十六讲
   - 2018/12/18 18:00-19:30
   - 三层1号会议室
