@@ -8,7 +8,17 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第十六讲(Oncoming)
+## 第十八讲(Oncoming)
+  - 时间待定
+  - 三层1号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Prioritizing What To Work On
+    - Error Analysis
+    - Error Metrics For Skewed Classes
+    - Trading Off Percision and Recall
+    - Data For Machinine Learning
+## 第十七讲(Finished)
   - 2019/1/2 18:00-19:30
   - 三层1号会议室
   - 主持人：李鹏
