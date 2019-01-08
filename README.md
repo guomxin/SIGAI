@@ -17,7 +17,7 @@
     - Error Metrics For Skewed Classes
     - Trading Off Percision and Recall
     - Data For Machinine Learning
- -  week6/93-98.mp4    
+  -  week6/93-98.mp4    
 - [Stanford计算机视觉系列课程](https://github.com/guomxin/SIGAI/blob/master/CS231n-2017.md)第三讲
   - 2018/12/18 15:30-17:00
   - 三层3号会议室
