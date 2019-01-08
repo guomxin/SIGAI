@@ -18,6 +18,7 @@
     - Error Metrics For Skewed Classes
     - Trading Off Percision and Recall
     - Data For Machinine Learning
+ -  week6/93-98.mp4    
 ## 第十七讲(Finished)
   - 2019/1/2 18:00-19:30
   - 三层1号会议室
