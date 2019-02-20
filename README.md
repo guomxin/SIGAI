@@ -18,11 +18,12 @@
     - Trading Off Percision and Recall
     - Data For Machinine Learning
   -  week6/93-98.mp4    
-- [Stanford计算机视觉系列课程](https://github.com/guomxin/SIGAI/blob/master/CS231n-2017.md)第四讲
-  - 2019/2/19 15:30-17:00
-  - 三层2号会议室
-  - 主持人：李鹏
+- [Stanford计算机视觉系列课程](https://github.com/guomxin/SIGAI/blob/master/CS231n-2017.md)第五讲
+  - 2019/2/26 15:00-17:00
+  - 三层3号会议室
+  - 主持人：辛国茂
   - 内容简介：
-    - 损失函数优化
-    - 反向传播
-  - lecture3/08.mp4, lecture4/09.mp4
+    - CNN历史
+    - 视觉之外的CNN
+    - 卷积和池化
+  - lecture5/11-13.mp4
