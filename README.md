@@ -14,7 +14,7 @@
   - 内容简介：
     - Kernels 1&2
     - Using an SVM
-    - Unsuperized Learning_Introduction
+    - Unsupervized Learning_Introduction
   -  week7/104-106.mp4 & week8/108.mp4
 - [Stanford计算机视觉系列课程](https://github.com/guomxin/SIGAI/blob/master/CS231n-2017.md)第五讲
   - 2019/3/5 15:30-17:00
