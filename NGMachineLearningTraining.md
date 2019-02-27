@@ -8,6 +8,16 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
+## 第十九讲(Finished)
+  - 2019/2/26 17:30-19:30
+  - 三层2号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Data for machine learning
+    - SVM:Optimization objective
+    - Large Margin Intuition
+    - The mathematics behind large margin classification
+ -  week6/98.mp4 & week7/101-106.mp4
 ## 第十八讲(Finished)
   - 2019/2/20 17:30-19:30
   - 三层3号会议室
