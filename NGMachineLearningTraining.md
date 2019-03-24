@@ -8,6 +8,17 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
+## 第二十一讲(Finished)
+  - 2019/3/19 17:30-19:30
+  - 三层3号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Unsupervized Learning_Introduction
+    - K-means algorithm
+    - Optimization Objective
+    - Random Initialization
+    - Choosing the number of clusters
+ -  week8/108-112.mp4
 ## 第二十讲(Finished)
   - 2019/3/12 17:30-19:30
   - 三层3号会议室
