@@ -8,8 +8,50 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
-## 第十八讲(Oncoming)
-  - 2019/2/20 18:00-19:30
+## 第二十二讲(Finished)
+  - 2019/4/2 17:30-19:30
+  - 三层3号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Data Compression
+    - Data Visualization
+    - PCA problem formulation
+    - Random Initialization 1&2
+    - Choosing the number of principle component
+    - Reconstruction from compressed representation
+    - Advice for applying PCA
+ -  week9/115-121.mp4
+## 第二十一讲(Finished)
+  - 2019/3/19 17:30-19:30
+  - 三层3号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Unsupervized Learning_Introduction
+    - K-means algorithm
+    - Optimization Objective
+    - Random Initialization
+    - Choosing the number of clusters
+ -  week8/108-112.mp4
+## 第二十讲(Finished)
+  - 2019/3/12 17:30-19:30
+  - 三层3号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Kernels 1&2
+    - Using an SVM
+ -  week7/101-106.mp4
+## 第十九讲(Finished)
+  - 2019/2/26 17:30-19:30
+  - 三层2号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Data for machine learning
+    - SVM:Optimization objective
+    - Large Margin Intuition
+    - The mathematics behind large margin classification
+ -  week6/98.mp4 & week7/101-106.mp4
+## 第十八讲(Finished)
+  - 2019/2/20 17:30-19:30
   - 三层3号会议室
   - 主持人：辛国茂
   - 内容简介：
@@ -18,7 +60,7 @@
     - Error Metrics For Skewed Classes
     - Trading Off Percision and Recall
     - Data For Machinine Learning
- -  week6/93-98.mp4    
+ -  week6/93-97.mp4    
 ## 第十七讲(Finished)
   - 2019/1/2 18:00-19:30
   - 三层1号会议室
