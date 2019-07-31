@@ -8,6 +8,19 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
+## 第二十三讲
+  - 2019/7/30 18:15-20:00
+  - 三层3号会议室
+  - 主持人：辛国茂
+  - 内容简介：
+    - Problem motivation
+    - Gaussian distribution
+    - Algorithm
+    - Developing and evaluating an anormaly detection system
+    - Anormaly detection vs. Supervized learning
+    - Choosing what features to use
+    - Multivariate Gaussian distribution
+  -  week9/123-129.mp4
 ## 第二十二讲(Finished)
   - 2019/4/2 17:30-19:30
   - 三层3号会议室
@@ -20,7 +33,7 @@
     - Choosing the number of principle component
     - Reconstruction from compressed representation
     - Advice for applying PCA
- -  week9/115-121.mp4
+ -  week8/115-121.mp4
 ## 第二十一讲(Finished)
   - 2019/3/19 17:30-19:30
   - 三层3号会议室
