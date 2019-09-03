@@ -8,6 +8,36 @@
 - 每周一之前会提前把下一讲的视频文件上传
 # History
 按时间倒序排列
+## 第二十五讲
+  - 2019/8/27 18:15-20:00
+  - 三层2号会议室
+  - 主持人：狄方标
+  - 内容简介：
+    - Learning With Large Datasets
+    - Stochastic Gradient Descent
+    - Mini-Batch Gradient Descent
+    - Stochastic Gradient Descent Convergence
+    - Online Learning
+    - Map Reduce and Data Parallelism
+    - Problem Description and Pipeline
+    - Sliding Windows
+    - Getting Lots of Data and Artificial Data
+    - Ceiling Analysis_ What Part of the Pipeline to Work on Next
+    - Summary and Thank You
+  -  week10,11/140-151.mp4
+## 第二十四讲
+  - 2019/8/20 18:15-20:00
+  - 三层3号会议室
+  - 主持人：狄方标
+  - 内容简介：
+    - Anomaly Detection using the Multivariate Gaussian Distribution
+    - Problem Formulation
+    - Content Based Recommendations
+    - Collaborative Filtering
+    - Collaborative Filtering Algorithm
+    - Vectorization_ Low Rank Matrix Factorization
+    - Implementational Detail_ Mean Normalization
+  -  week9/130-138.mp4
 ## 第二十三讲
   - 2019/7/30 18:15-20:00
   - 三层3号会议室
