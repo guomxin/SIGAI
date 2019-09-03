@@ -23,7 +23,7 @@
     - Getting Lots of Data and Artificial Data
     - Ceiling Analysis_ What Part of the Pipeline to Work on Next
     - Summary and Thank You
-  -  week9/130-138.mp4
+  -  week10,11/140-151.mp4
 - [Stanford计算机视觉系列课程](https://github.com/guomxin/SIGAI/blob/master/CS231n-2017.md)第八讲
   - 待定
   - 三层3号会议室
