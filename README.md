@@ -11,9 +11,9 @@
   - 2021/6/24 18:30-20:00
   - 一号会议室
   - 内容简介：  
-    - 卷积神经网络(CNN)
+    - 自注意力机制
   - 视频链接
-    - https://www.bilibili.com/video/BV1Wv411h7kN?p=22
+    - https://www.bilibili.com/video/BV1Wv411h7kN?p=23
 
 # 完成的系列
 - [Andrew NG机器学习系列课程-第一期(2018/8/22-2019/8/27)](https://github.com/guomxin/SIGAI/blob/master/NGMachineLearningTraining.md)
