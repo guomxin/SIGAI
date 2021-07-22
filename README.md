@@ -8,7 +8,7 @@
 每周四，AI技术学习和研讨，济南市高新区新泺大街2008号银荷大厦B座，具体看每次通知
 # 预告
 - [李宏毅2021春机器学习课程](https://github.com/guomxin/SIGAI/blob/master/HYMachineLearningTraining.md)第六讲
-  - 2021/7/8 18:30-20:00
+  - 2021/7/22 18:30-20:00
   - 一号会议室
   - 内容简介：  
     - Transformer
